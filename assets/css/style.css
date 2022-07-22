@@ -42,10 +42,6 @@ html {
     margin-top: 16px !important;
 }
 
-.margin-32px {
-    margin-top: 32px !important;
-}
-
 .row{
     margin-left: -8px;
     margin-right: -8px;
@@ -82,7 +78,6 @@ html {
     padding: 10px 13px;
     display: inline-block;
     border: none;
-    
 }
 
 #content .button:hover{
@@ -289,7 +284,7 @@ html {
 }
 
 #content .members-list {
-    margin-top: 32px;
+    margin-top: 48px;
 }
 
 
@@ -361,7 +356,7 @@ html {
     padding (padding dưới place-item */
     /* do học row,column nên chuyển 
     lên phần common row rồi */
-    margin-top: 16px;
+    margin-top: 32px;
     margin-bottom: 48px;
 }
 
@@ -378,7 +373,7 @@ html {
 }
 
 #content .place-heading{
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 600;
 }
 
@@ -401,11 +396,6 @@ html {
 .content-section .contact-info{
     font-size: 18px;
     line-height: 1.4;
-}
-
-.content-section .contact-info a {
-    color: #3100ee;
-    opacity: 0.6;
 }
 
 .contact-info i[class*="ti-"]{
